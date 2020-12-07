@@ -1,0 +1,157 @@
+,0
+0,bedrooms
+1,bathrooms
+2,sqft_living
+3,floors
+4,waterfront
+5,view
+6,grade
+7,has_basement
+8,zipcode#98004
+9,zipcode#98102
+10,zipcode#98112
+11,zipcode#98039
+12,zipcode#98040
+13,zipcode#98119
+14,zipcode#98105
+15,zipcode#98006
+16,bedrooms^2
+17,bedrooms bathrooms
+18,bedrooms floors
+19,bedrooms waterfront
+20,bedrooms view
+21,bedrooms condition
+22,bedrooms grade
+23,bedrooms has_basement
+24,bedrooms property_age
+25,bedrooms zipcode#98004
+26,bedrooms zipcode#98102
+27,bedrooms zipcode#98109
+28,bedrooms zipcode#98112
+29,bedrooms zipcode#98039
+30,bedrooms zipcode#98040
+31,bedrooms zipcode#98119
+32,bedrooms zipcode#98105
+33,bedrooms zipcode#98006
+34,bathrooms^2
+35,bathrooms floors
+36,bathrooms waterfront
+37,bathrooms view
+38,bathrooms condition
+39,bathrooms grade
+40,bathrooms has_basement
+41,bathrooms property_age
+42,bathrooms zipcode#98004
+43,bathrooms zipcode#98102
+44,bathrooms zipcode#98109
+45,bathrooms zipcode#98112
+46,bathrooms zipcode#98039
+47,bathrooms zipcode#98040
+48,bathrooms zipcode#98119
+49,bathrooms zipcode#98105
+50,bathrooms zipcode#98006
+51,sqft_living waterfront
+52,sqft_living has_basement
+53,sqft_living zipcode#98004
+54,sqft_living zipcode#98102
+55,sqft_living zipcode#98109
+56,sqft_living zipcode#98112
+57,sqft_living zipcode#98039
+58,sqft_living zipcode#98040
+59,sqft_living zipcode#98119
+60,sqft_living zipcode#98105
+61,sqft_living zipcode#98006
+62,sqft_living zipcode#98005
+63,sqft_lot zipcode#98102
+64,sqft_lot zipcode#98109
+65,sqft_lot zipcode#98112
+66,sqft_lot zipcode#98119
+67,sqft_lot zipcode#98105
+68,floors^2
+69,floors waterfront
+70,floors view
+71,floors condition
+72,floors grade
+73,floors has_basement
+74,floors property_age
+75,floors zipcode#98004
+76,floors zipcode#98102
+77,floors zipcode#98109
+78,floors zipcode#98112
+79,floors zipcode#98039
+80,floors zipcode#98040
+81,floors zipcode#98119
+82,floors zipcode#98105
+83,floors zipcode#98006
+84,waterfront^2
+85,waterfront view
+86,waterfront condition
+87,waterfront grade
+88,waterfront has_basement
+89,waterfront property_age
+90,waterfront zipcode#98004
+91,waterfront zipcode#98040
+92,waterfront zipcode#98105
+93,view^2
+94,view condition
+95,view grade
+96,view has_basement
+97,view property_age
+98,view zipcode#98004
+99,view zipcode#98102
+100,view zipcode#98109
+101,view zipcode#98112
+102,view zipcode#98039
+103,view zipcode#98040
+104,view zipcode#98119
+105,view zipcode#98105
+106,view zipcode#98006
+107,condition grade
+108,condition has_basement
+109,condition zipcode#98004
+110,condition zipcode#98102
+111,condition zipcode#98109
+112,condition zipcode#98112
+113,condition zipcode#98039
+114,condition zipcode#98040
+115,condition zipcode#98119
+116,condition zipcode#98105
+117,condition zipcode#98006
+118,grade^2
+119,grade has_basement
+120,grade property_age
+121,grade zipcode#98004
+122,grade zipcode#98102
+123,grade zipcode#98109
+124,grade zipcode#98112
+125,grade zipcode#98039
+126,grade zipcode#98040
+127,grade zipcode#98119
+128,grade zipcode#98105
+129,grade zipcode#98006
+130,has_basement^2
+131,has_basement property_age
+132,has_basement zipcode#98004
+133,has_basement zipcode#98102
+134,has_basement zipcode#98112
+135,has_basement zipcode#98039
+136,has_basement zipcode#98040
+137,has_basement zipcode#98119
+138,has_basement zipcode#98105
+139,has_basement zipcode#98006
+140,property_age zipcode#98004
+141,property_age zipcode#98102
+142,property_age zipcode#98112
+143,property_age zipcode#98039
+144,property_age zipcode#98040
+145,property_age zipcode#98119
+146,property_age zipcode#98105
+147,property_age zipcode#98006
+148,zipcode#98004^2
+149,zipcode#98102^2
+150,zipcode#98112^2
+151,zipcode#98039^2
+152,zipcode#98040^2
+153,zipcode#98119^2
+154,zipcode#98105^2
+155,zipcode#98006^2
