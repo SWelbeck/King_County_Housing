@@ -1,6 +1,8 @@
 # King_County_Housing
 Prediction model for housing prices in King County, Washington
 
+![alt text](https://github.com/SWelbeck/King_County_Housing/blob/master/image.jpg?raw=true)
+
 Overview: This project will explore a given King County, Washington dataset to create features and build a model for prediction sales prices in King County.
 
 Business Aim: Create a model that predicts the sales price of property in King County, Washington. A real estate firm is searching for a prediction model that will assist in predicting housing prices to help them better tailer their business objectives.
